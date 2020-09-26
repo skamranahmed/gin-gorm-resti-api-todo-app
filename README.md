@@ -1,4 +1,4 @@
-## List of APIs
+## API Endpoints
 
 - GET: /v1/todo 
 - POST: /v1/todo
